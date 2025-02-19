@@ -1,0 +1,12 @@
+# Standard Libraries (built-in, no need to install separately)
+# os, json, shutil, StringIO, typing (List, Dict) → Included in Python
+
+# Core Dependencies
+pandas
+torch
+chromadb
+diffusers
+sentence-transformers
+transformers
+Pillow
+ipython
